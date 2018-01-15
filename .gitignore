@@ -1,0 +1,7 @@
+### JetBrains
+.idea/
+
+### Database
+/config/config.ini
+/database/
+/test/
